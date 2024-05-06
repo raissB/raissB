@@ -5,6 +5,5 @@ Meu nome é Raissa Santos
 - estou me desevolvendo na linguagem Javasvript
 - utilizo este espaço para minha organização e compartilhamentos dos meus projetos desenvolvios
   
+![](https://media1.tenor.com/m/71QUzbOyS_MAAAAd/twilight-sparkle-mlp.gif)
 
-  ![](![image](https://github.com/raissB/raissB/assets/169052229/2f4b6f61-ef99-4873-b7bf-2fd3e227370e)
-)
